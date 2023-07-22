@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/banana_sakura.mk
+    $(LOCAL_DIR)/droidx_sakura.mk
